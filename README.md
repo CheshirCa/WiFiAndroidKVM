@@ -1,6 +1,6 @@
 # WiFi Android KVM
 
-![WiFi Android KVM](https://github.com/CheshirCa/WiFiAndroidKVM/blob/main/doc/screenshot.jpg)
+![WiFi Android KVM](https://raw.githubusercontent.com/CheshirCa/WiFiAndroidKVM/refs/heads/main/docs/screenshot.jpg)
 
 **Version 0.4.6.** A compact Wi-Fi KVM that sends Windows mouse and keyboard input to a rooted Android tablet without transferring video. The tested device is a PocketBook SURFpad 4M running Android 4.4.2 / API 19, ARMv7, Linux 3.4.67.
 
