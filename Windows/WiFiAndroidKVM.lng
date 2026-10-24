@@ -1,0 +1,58 @@
+; WiFi Android KVM UI languages. UTF-8 (with or without BOM).
+; Each [section] is the language code saved in WiFiAndroidKVM.ini.
+; Name is shown in the program. Empty or omitted text values use built-in English.
+
+[ru]
+Name=Русский
+TitleMain=WiFi Android KVM — 0.4.6
+TitleNotice=WiFi Android KVM — управление планшетом
+StatusLocal=Управление Windows. Ctrl+Alt+M — передать мышь и клавиатуру планшету.
+StatusRemote=Управление планшетом. Ctrl+Alt+M — вернуть мышь и клавиатуру Windows.
+Devices=Найденные устройства:
+SectionDevices=Устройства
+SectionConnection=Подключение
+SectionControl=Управление
+SectionMouse=Чувствительность мыши
+Device=Устройство
+Address=IP-адрес
+Find=Найти устройства
+Host=IP/DNS:
+KeepAlive=Поддержание
+AutoReconnect=Автопереподключение
+Sensitivity=Чувствительность мыши:
+SensitivityTip=25–300%; 100% — исходная скорость. Только движение мыши Android.
+Diagnostics=События мыши:
+PacketsSent=Пакеты перемещения:
+Hide=Скрыть в трей
+Show=Показать окно
+EnableRemote=Включить управление планшетом
+DisableRemote=Выключить управление планшетом
+CancelReconnect=Отменить переподключение
+Exit=Выйти
+Language=Язык:
+AutoStart=Запускать вместе с Windows
+NoticeTitle=Мышь и клавиатура перехвачены
+NoticeReturn=Вернуть управление Windows: Ctrl+Alt+M
+TrayLocal=WiFi Android KVM: Windows; Ctrl+Alt+M — управление планшетом
+TrayRemote=WiFi Android KVM: планшет; Ctrl+Alt+M — вернуть управление
+Searching=Поиск устройств в локальной сети…
+DiscoverySocketFailed=Не удалось открыть UDP-соединение для поиска.
+SearchFailed=Не удалось запустить поиск устройств.
+NoDevices=Устройства не найдены. Используйте ручной IP/DNS и TCP-порт.
+SelectDevice=Двойной щелчок — выбрать.
+ConnectionLost=Соединение потеряно. Управление возвращено Windows.
+Connecting=Подключение к 
+ConnectionAvailable=Планшет снова доступен. Включите управление, когда будете готовы.
+ReconnectWait=Соединение потеряно. Повторная попытка через 2 секунды…
+ReconnectNow=Повторное подключение к 
+InvalidAddress=Укажите корректные IP/DNS-имя и TCP-порт.
+NoConnection=Нет прямого соединения с 
+CheckNetwork=Проверьте Wi-Fi и запущенный Android Agent.
+AuthFailed=Агент отклонил авторизацию прямого подключения.
+CursorFailed=Не удалось зафиксировать курсор Windows.
+SenderFailed=Не удалось создать поток отправки.
+ConfigureFailed=Не удалось настроить TCP-соединение.
+TrayFailed=Не удалось добавить значок в трей. Окно останется доступным; закрытие завершит программу.
+NoticeFailed=Не удалось создать предупреждение о перехвате ввода.
+HookFailed=Не удалось зарегистрировать горячую клавишу или глобальный ввод мыши/клавиатуры.
+AutoStartFailed=Не удалось обновить автозапуск Windows.

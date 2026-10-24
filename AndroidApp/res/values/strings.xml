@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) CheshirCa 2026 | https://t.me/cheshircanest -->
+<resources>
+    <string name="app_name">WiFi Android KVM</string>
+    <string name="notification_title">WiFi Android KVM</string>
+    <string name="notification_text">TCP-агент мыши работает</string>
+</resources>

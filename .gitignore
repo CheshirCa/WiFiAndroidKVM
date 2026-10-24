@@ -1,0 +1,19 @@
+# Generated Windows files
+Windows/WiFiAndroidKVM.exe
+Windows/WiFiAndroidKVM.ini
+
+# Generated Android files and signing outputs
+Android/wifi_android_kvm_agent
+Android/wifi_android_kvm_uinput_test
+AndroidApp/WiFiAndroidKVM.apk
+AndroidApp/WiFiAndroidKVM.apk.idsig
+AndroidApp/res/raw/wifi_android_kvm_agent
+
+# Local build output
+*.class
+*.log
+build/
+out/
+
+# Local staging area for GitHub Release uploads
+Release/
