@@ -16,7 +16,6 @@ Start here:
 - [Protocol](docs/protocol.en.md)
 - [Mouse diagnostics](docs/mouse_diagnostics.en.md)
 - [Change log](CHANGELOG.en.md)
-- [Repository description, topics, and release text](GITHUB_METADATA.md)
 
 This source repository intentionally excludes generated binaries, including the EXE, APK, native Agent executables, local INI settings, and signing outputs. The local `Release/` staging directory contains the prepared GitHub assets: `WiFiAndroidKVM-0.4.6-windows-x64.zip`, `WiFiAndroidKVM-0.4.6-android-armv7.apk`, and `SHA256SUMS.txt`.
 
@@ -36,7 +35,6 @@ This source repository intentionally excludes generated binaries, including the 
 - [Протокол](docs/protocol.md)
 - [Диагностика мыши](docs/mouse_diagnostics.md)
 - [История изменений](CHANGELOG.md)
-- [Описание репозитория, теги и текст релиза](GITHUB_METADATA.md)
 
 В этот набор намеренно не включены собранные EXE, APK, исполняемые файлы Agent, локальный INI и результаты подписи. Локальная папка `Release/` содержит подготовленные вложения GitHub Release: `WiFiAndroidKVM-0.4.6-windows-x64.zip`, `WiFiAndroidKVM-0.4.6-android-armv7.apk` и `SHA256SUMS.txt`.
 
